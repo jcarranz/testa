@@ -21,8 +21,8 @@ font-size:14px!important;
 	}
 }
 @media (min-width: 1280px) {
-	.eventos-de-empresa .collapse {
-	//background:#ff8800!important;
+	.mientras figcaption p, .deporte figcaption p, .cohesionar figcaption p, .querras figcaption p {
+	font-size: .9em;
 	}
 	.eventos-de-empresa .collapse p {
 	width:800px
